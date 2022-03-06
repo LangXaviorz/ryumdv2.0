@@ -1,7 +1,7 @@
 {
-  "name": "RyuukaBotz",
+  "name": "LangBotz",
   "version": "1.0.0",
-  "description": "Halo Kontol",
+  "description": "Halo banh",
   "main": "index.js",
   "directories": {
     "lib": "lib"
